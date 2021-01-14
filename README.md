@@ -1,0 +1,1 @@
+Google Appscript Logger for use with JSweet.
